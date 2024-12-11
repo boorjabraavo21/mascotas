@@ -6,4 +6,4 @@ Aplicación hecha en Streamlit que carga un modelo previemente entrenado y clasi
 
 Link de la web desplegada:
 
-<a>https://clasificador-mascotas-bbc.streamlit.app/</a>
+<a target="_blank">https://clasificador-mascotas-bbc.streamlit.app/</a>
